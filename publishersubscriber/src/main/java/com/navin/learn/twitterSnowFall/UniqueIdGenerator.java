@@ -1,4 +1,4 @@
-package com.navin.learn.tenMillionUniqueId.twitterSnowFall;
+package com.navin.learn.twitterSnowFall;
 
 import java.net.NetworkInterface;
 import java.security.SecureRandom;

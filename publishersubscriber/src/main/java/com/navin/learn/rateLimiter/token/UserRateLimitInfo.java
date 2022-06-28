@@ -1,6 +1,6 @@
-package com.navin.learn.tenMillionUniqueId.rateLimiter.token;
+package com.navin.learn.rateLimiter.token;
 
-import com.navin.learn.tenMillionUniqueId.rateLimiter.common.Constants;
+import com.navin.learn.common.Constants;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
