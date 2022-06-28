@@ -1,4 +1,4 @@
-package com.navin.learn.tenMillionUniqueId.rateLimiter.common;
+package com.navin.learn.common;
 
 public final class Constants {
     private Constants(){}
